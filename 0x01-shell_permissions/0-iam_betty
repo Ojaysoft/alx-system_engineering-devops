@@ -1,0 +1,4 @@
+#!/bin/bash
+su betty
+wc -l 0-iam_betty 
+2 0-iam_betty
